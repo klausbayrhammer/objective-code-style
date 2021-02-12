@@ -1,1 +1,1 @@
-import {firstImport, secondImport, thirdImport} from './utils';
+import {firstImport, secondImport, thirdImport, fourthImport} from './utils';
